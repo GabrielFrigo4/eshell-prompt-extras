@@ -70,10 +70,11 @@ Themes
 Custom Variables
 ----------------
 
-    epe-show-python-info (default t)  
-    epe-git-dirty-char (default *)  
-    epe-git-untracked-char (default ?)  
-    epe-git-detached-HEAD-char (default D:)  
+    epe-show-python-info (default t)
+    epe-git-enable (default t)
+    epe-git-dirty-char (default *)
+    epe-git-untracked-char (default ?)
+    epe-git-detached-HEAD-char (default D:)
     epe-path-style: (options: fish, single or full. default fish)
 
 Faces
